@@ -1,3 +1,15 @@
+/*
+Yumee Chung
+A01712059
+
+Fecha: miércoles, 13 de noviembre de 2024
+
+Materia: Programación de estructuras de datos y algoritmos fundamentales
+ 
+Tarea8: Grafo Busqueda 
+*/
+
+
 #ifndef Graph_H_
 #define Graph_H_
 
