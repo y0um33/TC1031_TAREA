@@ -1,3 +1,14 @@
+/*
+Yumee Chung
+A01712059
+
+Fecha: lunes, 25 de noviembre de 2024
+
+Materia: Programación de estructuras de datos y algoritmos fundamentales
+ 
+Tarea9: Hash 
+*/
+
 #ifndef QUADRATIC_H_
 #define QUADRATIC_H_
 
